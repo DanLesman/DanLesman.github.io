@@ -10,7 +10,7 @@ export function Test() {
       <header className="App-header">
       <Box 
     sx={{justifyContent: 'flex-start'}}>
-       <p> haha made u look xD </p>
+       <p> love you :) </p>
        </Box>
       </header>
     </div>
